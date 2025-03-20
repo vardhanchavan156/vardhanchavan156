@@ -1,7 +1,3 @@
-Here’s a polished and professional version of your GitHub **README.md**:
-
----
-
 ## Hi there 👋  
 
 Welcome to my GitHub profile! I'm **Vardhan Chavan**, a passionate data enthusiast with a strong foundation in **Python, SQL, Power BI, Excel, and Machine Learning**. I love exploring data, building insights, and solving real-world problems through analytics and technology.  
