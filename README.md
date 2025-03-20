@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm **Vardhan Chavan**, a passionate data enthusia
 
 ### 🔭 **What I’m Currently Working On**  
 - Analyzing datasets to uncover trends and actionable insights.  
-- Building interactive dashboards using **Power BI** and **Tableau**.  
+- Building interactive dashboards using **Power BI**.  
 - Developing machine learning models for predictive analytics.  
 
 ### 🌱 **What I’m Currently Learning**  
